@@ -93,9 +93,9 @@ LangGraph의 상태 기반 그래프 구조를 활용해 에이전트 간 데이
  +---------+   
 ```
 
-> 📸 **그래프 구조 캡처 이미지**  
+> **그래프 구조 캡처 이미지**  
 > `실행 후 터미널 출력 화면을 캡처하여 아래에 추가하세요.`  
-> `![graph](images/graph_structure.png)`
+> `<img width="719" height="1065" alt="image" src="https://github.com/user-attachments/assets/2ec54796-dab5-427f-b5bb-f9b1ff0372b1" />`
 
 ---
 
@@ -128,9 +128,9 @@ HIIT (고강도 인터벌 트레이닝)
 - 짧은 시간 안에 높은 칼로리 소모 가능
 ```
 
-> 📸 **실행 결과 캡처 이미지**  
+> **실행 결과 캡처 이미지**  
 > `실행 결과 화면을 캡처하여 아래에 추가하세요.`  
-> `![result](images/result_output.png)`
+> `<img width="1617" height="1065" alt="image" src="https://github.com/user-attachments/assets/59495457-5774-4949-a4a9-a9c7f479423a" />`
 
 ---
 
@@ -167,19 +167,6 @@ LLM 특유의 AI 말투 없이 자연스러운 결과를 유도했습니다.
 **로컬 LLM 연동**  
 Ollama를 통해 외부 API 없이 로컬에서 완전 동작합니다.  
 모델명 한 줄만 바꾸면 다른 Ollama 모델로 즉시 교체 가능합니다.
-
----
-
-## 파일 구조
-
-```
-.
-├── langgraph_exercise.ipynb   # 메인 노트북
-├── README.md
-└── images/                    # 캡처 이미지 폴더 (직접 추가)
-    ├── graph_structure.png
-    └── result_output.png
-```
 
 ---
 
